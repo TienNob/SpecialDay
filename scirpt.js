@@ -1,4 +1,4 @@
-const birthday = `31 sep 2021 00:01:00`
+const birthday = `13 Nov 2021 00:00:00`
 const countdownContainer = document.querySelector('.countdown-container')
 const titleContainer = document.querySelector('.countdown-title')
 const daysEl = document.querySelector('.daysEl')
