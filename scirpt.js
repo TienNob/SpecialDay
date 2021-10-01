@@ -106,8 +106,6 @@ function changeClockImg() {
         'url(./img/ngan3.jpeg)',
         'url(./img/ngan4.jpeg)',
         'url(./img/ngan5.jpg)',
-        'url(./img/ngan6.jpg)',
-        'url(./img/ngan7.jpg)',
 
     ]
     clockContainer.style.backgroundImage = clockImg[i]
